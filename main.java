@@ -20,6 +20,8 @@ import org.bukkit.plugin.Plugin;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
+// thats a lot of imports uwu
+
 public class PluginMain
 extends JavaPlugin
 implements Listener {
