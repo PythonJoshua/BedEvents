@@ -12,5 +12,7 @@ Why wait? Download ⭐ Bed Events! ⭐ Today!
 - Commands:
 
 Disable Beds > /beddisabler
+
 Enter Bed > /bedentermsg
+
 Leave Bed > /bedleavemsg
