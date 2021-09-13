@@ -18,3 +18,5 @@ Enter Bed > /bedentermsg
 Leave Bed > /bedleavemsg
 
 This Project is featured on SPIGOTMC: https://www.spigotmc.org/resources/%E2%AD%90-bed-events-%E2%AD%90.95941/
+
+**NOT MAINTANED**
